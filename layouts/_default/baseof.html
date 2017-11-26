@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+
+<title>{{ .Site.Title }}</title>
+
+<meta property="description" content="I ask questions about how human beings get on in the world.">
+<meta property="og:title" content="Josh Berson">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://joshberson.net">
+
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- site icon, courtesy realfavicongenerator.net -->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="theme-color" content="#ffffff">
+
+<link rel="stylesheet" type="text/css" href="/ui/screen.css">
+<script src="https://use.fontawesome.com/c1b327842c.js"></script>
+</head>
+<body>
+
+{{ block "main" . }}
+{{ end }}
+
+<!-- FIXME: JUST DROP THE EXPAND/COLLAPSE CODE IN HERE, AS YOU DID FOR SUPARNA'S SITE -- and DROP JQUERY, JUST USE VELOCITY? LOAD VELOCITY FROM CANONCIAL URL? -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" src="/ui/velocity.min.js"></script>
+<!-- script type="text/javascript" src="/ui/ui.js"></script -->
+<script type="text/javascript">
+// $("h2").nextUntil() comes from https://www.silvabokis.com/squarespace-tips/how-to-create-hideshow-faqs-in-squarespace
+// — Makes it easy to apply this to Markdown-based content
+
+// FIXME: Dispense with ready() ?
+$("h2").nextUntil("h2").velocity( { opacity: 1 }, { display: "none" } );
+$(document).ready( function(){
+  $("h2").css( "cursor", "pointer" );
+  $("h2").click( function() {
+    var probe = $(this).next();
+    // No slideToggle() in Velocity: https://github.com/julianshapiro/velocity/issues/276
+    if ( probe.css( "display" ) === "none" ) {
+      $(this).nextUntil("h2").velocity( "slideDown", { duration: 500 } );
+      $(this).velocity( "scroll", { duration: 750, offset: -50, easing: "ease-in-out" } );
+    }
+    else {
+      $(this).nextUntil("h2").velocity( "slideUp", { duration: 500 } );
+    }
+  });
+});
+</script>
+</body>
+</html>
