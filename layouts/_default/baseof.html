@@ -30,15 +30,9 @@
 {{ block "main" . }}
 {{ end }}
 
-<!-- FIXME: JUST DROP THE EXPAND/COLLAPSE CODE IN HERE, AS YOU DID FOR SUPARNA'S SITE -- and DROP JQUERY, JUST USE VELOCITY? LOAD VELOCITY FROM CANONCIAL URL? -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script type="text/javascript" src="/ui/velocity.min.js"></script>
-<!-- script type="text/javascript" src="/ui/ui.js"></script -->
 <script type="text/javascript">
-// $("h2").nextUntil() comes from https://www.silvabokis.com/squarespace-tips/how-to-create-hideshow-faqs-in-squarespace
-// — Makes it easy to apply this to Markdown-based content
-
-// FIXME: Dispense with ready() ?
 $("h2").nextUntil("h2").velocity( { opacity: 1 }, { display: "none" } );
 $(document).ready( function(){
   $("h2").css( "cursor", "pointer" );

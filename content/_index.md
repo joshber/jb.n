@@ -11,14 +11,11 @@ lastmod: 2017-11-26
 
 ###### [<i class="fa fa-envelope-o" aria-hidden="true"></i>](mailto:josh@joshberson.net)
 
-##### I investigate the relationships among environment, culture, body, and mind.
+##### I write about how human beings get on in the world — how we form relationships with other living things, how our bodies are shaped by where we live and what we do.
 
-~~I ask how human beings get on in the world — how we form relationships with other living things,
-how our bodies are shaped by where we live and what we do.~~
+I give special attention to the question of scale — how the intimate (eating, sleeping, moving, sensing) relates to the global (social acceleration, climate change), how the deep past relates to the imminent future.
 
-Cutting across my work is a concern with linkages across scales of time and space,
-from the intimate (eating, moving, sleeping)
-to the global (social acceleration, climate change).
+In my empirical life I design new methods of observing social behavior in the wild. These tend to involve participatory distributed sensing.
 
 ## Deep social phenomics
 
@@ -27,7 +24,7 @@ it unfolds in the coordinate action of two or more individuals (think of languag
 But social scientists of all stripes have long struggled with the question of how
 to measure social behavior "in the wild."
 
-In some circles, talk of rigorous measurement provokes alarm, and with good reason.
+In some circles, talk of rigorous measurement provokes alarm.
 For those who prioritize experience over outward signs of behavior, any effort to
 reduce the dimensionality of experience in analysis can seem like an act of violence,
 in particular toward those whose experience has been characterized as deviant.
@@ -39,7 +36,7 @@ has been an abiding theme of my research since 2013. This question stands at the
 of my 2015 book, *Computable Bodies*, not to say my concurrent work at the Wellcome-funded
 research initiative Hubbub.
 
-More coming soon.
+More to come.
 
 ## Against contemplation
 
@@ -138,5 +135,3 @@ Prior to that I was a Carson Fellow at the Rachel Carson Center for Environment 
 a postdoctoral research fellow at the Max Planck Institute for the History of Science in Berlin,
 a postdoctoral fellow at the Institute for the Human Sciences, Vienna,
 and a lecturer in the Health and Societies Program at the University of Pennsylvania.
-
-Prior to doing a PhD (University of Pennsylvania, 2009) I worked as software consultant.
