@@ -59,10 +59,9 @@ Before we conclude that the human future is carnivorous, we need a public conver
 *Meat: From Human Origins to the Crisis of Capitalism*.
 Contract under negotiation.
 
-<span class="no">[<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.bloomsbury.com/uk/computable-bodies-9781472527622/)</span>
 **Berson J**
 (2015)
-*Computable Bodies: Instrumented Life and the Human Somatic Niche*.
+[*Computable Bodies: Instrumented Life and the Human Somatic Niche*](http://www.bloomsbury.com/uk/computable-bodies-9781472527622/).
 London: Bloomsbury.
 
 **Winner, 2016 PROSE Award in Language and Linguistics**
@@ -74,54 +73,45 @@ London: Bloomsbury.
 Artificial intelligence. *International Encyclopedia of Linguistic Anthropology*, ed J Stanlaw et al. New York:
 Wiley.
 
-<span class="no">[<i class="fa fa-external-link" aria-hidden="true"></i>](http://www.journals.uchicago.edu/doi/full/10.1086/690621)</span>
 **Berson J**
 (2017)
-The topology of endangered languages. *Signs and Society* 5: 96–123.
+[The topology of endangered languages](http://www.journals.uchicago.edu/doi/full/10.1086/690621). *Signs and Society* 5: 96–123.
 
-<span class="no">[<i class="fa fa-external-link" aria-hidden="true"></i>](https://goo.gl/Qn2HTI)</span>
 **Berson J**
 (2016)
-Sound and pain. *Technosphere* (Haus der Kulturen der Welt, Berlin), Dossier “Trauma.”
+[Sound and pain](https://goo.gl/Qn2HTI). *Technosphere* (Haus der Kulturen der Welt, Berlin), Dossier “Trauma.”
 
-<span class="no">[<i class="fa fa-external-link" aria-hidden="true"></i>](https://link.springer.com/chapter/10.1007/978-3-319-45264-7_11)</span>
 **Berson J**
 (2016)
-Cartographies of Rest: the spectral envelope of vigilance. *The Restless Compendium*, ed F Callard et al,
+[Cartographies of Rest: the spectral envelope of vigilance](https://link.springer.com/chapter/10.1007/978-3-319-45264-7_11). *The Restless Compendium*, ed F Callard et al,
 91–98. London: Palgrave.
 
-<span class="no">[<i class="fa fa-external-link" aria-hidden="true"></i>](https://doi.org/10.1371/journal.pone.0164783)</span>
 Ellamil M, **Berson J**, Wong J, Buckley L, Margulies D
 (2016)
-One in the dance: musical correlates of group synchrony in a real-world club environment.
+[One in the dance: musical correlates of group synchrony in a real-world club environment](https://doi.org/10.1371/journal.pone.0164783).
 *PLOS ONE* 11: e0164783.
 
-<span class="no">[<i class="fa fa-external-link" aria-hidden="true"></i>](https://doi.org/10.3389/fpsyg.2016.01744)</span>
 Ellamil M, **Berson J**, Margulies D
 (2016)
-Influences on and measures of unintentional group synchrony.
+[Influences on and measures of unintentional group synchrony](https://doi.org/10.3389/fpsyg.2016.01744).
 *Frontiers in Psychology* 7: 1744.
 
-<span class="no">[<i class="fa fa-external-link" aria-hidden="true"></i>](https://www.hkw.de/en/programm/projekte/2014/anthropozaenprojekt_ein_bericht/textures_of_the_anthropocene/2014_publikation_anthropozaen.php)</span>
 **Berson J**
 (2014)
-Forced desynchrony. *Textures of the Anthropocene: Grain Vapor Ray*, ed K Klingan et al, 108–118.
+Forced desynchrony. [*Textures of the Anthropocene: Grain Vapor Ray*](https://www.hkw.de/en/programm/projekte/2014/anthropozaenprojekt_ein_bericht/textures_of_the_anthropocene/2014_publikation_anthropozaen.php), ed K Klingan et al, 108–118.
 Cambride, Mass: MIT Press.
 
-<span class="no">[<i class="fa fa-external-link" aria-hidden="true"></i>](/words/Berson, Quinoa Hack.pdf)</span>
 **Berson J**
 (2014)
-The quinoa hack. *New Left Review* 85: 117–132.
+[The quinoa hack](/words/Berson, Quinoa Hack.pdf). *New Left Review* 85: 117–132.
 
-<span class="no">[<i class="fa fa-external-link" aria-hidden="true"></i>](/words/Berson, Color Primitive.pdf)</span>
 **Berson J**
 (2014)
-Color primitive. *Cabinet* 52: 41–49.
+[Color primitive](/words/Berson, Color Primitive.pdf). *Cabinet* 52: 41–49.
 
-<span class="no">[<i class="fa fa-external-link" aria-hidden="true"></i>](https://doi.org/10.1017/S0010417514000085)</span>
 **Berson J**
 (2014)
-The dialectal tribe and the doctrine of continuity. *Comparative Studies in Society and History* 56: 381–418.
+[The dialectal tribe and the doctrine of continuity](https://doi.org/10.1017/S0010417514000085). *Comparative Studies in Society and History* 56: 381–418.
 
 ## Bio
 
