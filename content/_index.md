@@ -29,14 +29,22 @@ For those who prioritize experience over outward signs of behavior, any effort t
 reduce the dimensionality of experience in analysis can seem like an act of violence,
 in particular toward those whose experience has been characterized as deviant.
 
+But, in fact, done with sensitivity, rigorous measurement represents a critical tool of advocacy on behalf of the marginalized.
+
+Take psychosis. Over the past ten years, as efforts to identify the neurophysiological, epigenetic, and genetic determinants of psychosis have crystallized, it has become clear that these measures are often of limited value in the absence of detailed behavioral, phenomenological, and environmental data—what has come to be known as a *deep phenotype*.
+
+Generally, efforts to elicit deep phenotypes rely on established techniques of anamnesis and physical diagnosis—semi-structured interviews, batteries, neurological exams, collation of education and hospitalization records, and sometimes collection of endocrine factors. These exclude some of the potentially most significant dimensions of behavior, phenomenology, and environment, to wit, those that unfold in how the individual experiences the world on a day-to-day basis *in the wild* — circadian rhythms of social contact, ambient light and sound exposure, and transient peaks and troughs in mood, motor vigilance, other-directedness, social anxiety, and trust and mistrust.
+
+So the question is: *How might we observe these things?* What we need is a new genre of behavioral–phenomenological–environmental measure, using high-resolution remote sensing to evoke study participants’ subjective states of being and perisomatic environment in real time. This I call *deep social phenomics.*
+
+Deep social phenomics combines validated methods of experience sampling with state-of-the-art techniques of signals processing, including the use of convolutional neural networks for the automated extraction of socially salient high-level environmental features from panoramic image data collected *by the participants* as they go about their daily lives. It leverages recent advances in cloud-based microservice architecture and digital optics that have made it possible to involve participants directly and actively in the production of data — and sometimes in the design of research questions — while keeping the protocol noninvasive and even fun.
+
 The question of how to evoke a deep social phenotype in the field while staying
 critically engaged with the difficulties of representing behavior in a way that is
 concise, expressive, and politically reflexive all at the same time
 has been an abiding theme of my research since 2013. This question stands at the heart
 of my 2015 book, *Computable Bodies*, not to say my concurrent work at the Wellcome-funded
-research initiative Hubbub.
-
-More to come.
+research initiative Hubbub and new projects since — more to come.
 
 ## Against contemplation
 
