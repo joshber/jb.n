@@ -106,7 +106,7 @@ Ellamil M, **Berson J**, Margulies D
 
 **Berson J**
 (2014)
-Forced desynchrony. [*Textures of the Anthropocene: Grain Vapor Ray*](https://www.hkw.de/en/programm/projekte/2014/anthropozaenprojekt_ein_bericht/textures_of_the_anthropocene/2014_publikation_anthropozaen.php), ed K Klingan et al, 108–118.
+[Forced desynchrony](/words/Berson, Forced Desynchrony.pdf). [*Textures of the Anthropocene: Grain Vapor Ray*](https://www.hkw.de/en/programm/projekte/2014/anthropozaenprojekt_ein_bericht/textures_of_the_anthropocene/2014_publikation_anthropozaen.php), ed K Klingan et al, 108–118.
 Cambride, Mass: MIT Press.
 
 **Berson J**
