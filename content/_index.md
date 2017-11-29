@@ -17,6 +17,14 @@ I give special attention to the question of scale — how the intimate (eating, 
 
 In my empirical life I design new methods of observing social behavior in the wild. These tend to involve participatory distributed sensing.
 
+## Meat
+
+Humanity is eating more meat. Over the next thirty years, demand for meat is projected to grow at twice the rate of demand for plant-based foods. This means a huge commitment of resources. Meat-eating has become an enormous stress on the biosphere — and, to a growing number of people, a cause of immense injustice. And yet, conventional wisdom holds that meat made us what we are — that much of what makes us human, from big brains and slow life history to planning, social coordination, fine motor control, and our unique form of bipedal locomotion, arose in response to an innate craving for meat. So in a world of rising incomes, growing demand for meat is inevitable.
+
+In my forthcoming book *Meat*, I argue that we have the relationship between biology and capitalism backward. *Meat* considers the full sweep of meat’s history, from the first appearances of proto-human hominins nearly three million years ago to the global trade in livestock products today. I argue that not only did meat not make us human, contemporary growth in demand for meat is driven as much by economic uncertainty as by affluence.
+
+Before we conclude that the human future is carnivorous, we need a public conversation about meat-eating that gets beyond Paleolithic diets and animal protection to address the deeply entwined economic and political lives of humans and animals past, present, and future. *Meat* offers a starting point for this conversation.
+
 ## Deep social phenomics
 
 Most of what is distinctively human in human behavior is social in nature, that is,
@@ -46,26 +54,18 @@ has been an abiding theme of my research since 2013. This question stands at the
 of my 2015 book, *Computable Bodies*, not to say my concurrent work at the Wellcome-funded
 research initiative Hubbub and new projects since — more to come.
 
-## Against contemplation
+## Stillness
 
 Coming soon.
-
-## Meat
-
-Humanity is eating more meat. Over the next thirty years, demand for meat is projected to grow at twice the rate of demand for plant-based foods. This means a huge commitment of resources. Meat-eating has become an enormous stress on the biosphere — and, to a growing number of people, a cause of immense injustice. And yet, conventional wisdom holds that meat made us what we are — that much of what makes us human, from big brains and slow life history to planning, social coordination, fine motor control, and our unique form of bipedal locomotion, arose in response to an innate craving for meat. So in a world of rising incomes, growing demand for meat is inevitable.
-
-In my forthcoming book *Meat*, I argue that we have the relationship between biology and capitalism backward. *Meat* considers the full sweep of meat’s history, from the first appearances of proto-human hominins nearly three million years ago to the global trade in livestock products today. I argue that not only did meat not make us human, contemporary growth in demand for meat is driven as much by economic uncertainty as by affluence.
-
-Before we conclude that the human future is carnivorous, we need a public conversation about meat-eating that gets beyond Paleolithic diets and animal protection to address the deeply entwined economic and political lives of humans and animals past, present, and future. *Meat* offers a starting point for this conversation.
 
 ## Selected writing
 
 ### Books
 
-**Berson J**
+~~**Berson J**
 (2018)
 *Meat: From Human Origins to the Crisis of Capitalism*.
-Contract under negotiation.
+Contract under negotiation.~~
 
 **Berson J**
 (2015)

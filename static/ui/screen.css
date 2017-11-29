@@ -103,7 +103,7 @@ body {
   font-size: 20px;
   line-height: 36px;
 	font-feature-settings: "liga";
-  color: #090902; /* FIXME: CHECK 67% saturation, 2% lightness. Update box-shadows whenever you update */
+  color: #000;/*#090902;*/
   background: #fff;
 
   /* Stops Mobile Safari from auto-adjusting font-sizes */
