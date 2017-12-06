@@ -24,30 +24,16 @@
 
 <link rel="stylesheet" type="text/css" href="/ui/screen.css">
 <script src="https://use.fontawesome.com/c1b327842c.js"></script>
+
+<link href="https://fonts.googleapis.com/css?family=Work+Sans:400,700" rel="stylesheet">
 </head>
 <body>
 
 {{ block "main" . }}
 {{ end }}
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script type="text/javascript" src="/ui/velocity.min.js"></script>
-<script type="text/javascript">
-$("h2").nextUntil("h2").velocity( { opacity: 1 }, { display: "none" } );
-$(document).ready( function(){
-  $("h2").css( "cursor", "pointer" );
-  $("h2").click( function() {
-    var probe = $(this).next();
-    // No slideToggle() in Velocity: https://github.com/julianshapiro/velocity/issues/276
-    if ( probe.css( "display" ) === "none" ) {
-      $(this).nextUntil("h2").velocity( "slideDown", { duration: 500 } );
-      $(this).velocity( "scroll", { duration: 750, offset: -50, easing: "ease-in-out" } );
-    }
-    else {
-      $(this).nextUntil("h2").velocity( "slideUp", { duration: 500 } );
-    }
-  });
-});
-</script>
+<script type="text/Javascript" src="/ui/ui.js"></script>
 </body>
 </html>
