@@ -3,7 +3,7 @@ title: "Autonomy"
 author: Josh
 date: 2017-11-25
 
-draft: true
+draft: false
 lastmod: 2017-11-26
 ---
 
