@@ -4,10 +4,10 @@
  * Typography
  */
 
-@font-face {
+/*@font-face {
 	font-family: Rubrik;
 	font-style: normal;
-	font-weight: normal;/*300*/
+	font-weight: normal;
 	src:
 		url('/ui/woff/Rubrik/RubrikNew-Regular.woff2') format('woff2'),
 		url('/ui/woff/Rubrik/RubrikNew-Regular.woff') format('woff');
@@ -15,7 +15,7 @@
 @font-face {
 	font-family: Rubrik;
 	font-style: italic;
-	font-weight: normal;/*300*/
+	font-weight: normal;
 	src:
 		url('/ui/woff/Rubrik/RubrikNew-RegularItalic.woff2') format('woff2'),
 		url('/ui/woff/Rubrik/RubrikNew-RegularItalic.woff') format('woff');
@@ -23,39 +23,18 @@
 @font-face {
 	font-family: Rubrik;
 	font-style: normal;
-	font-weight: bold;/*700*/
+	font-weight: bold;
 	src:
 		url('/ui/woff/Rubrik/RubrikNew-Bold.woff2') format('woff2'),
 		url('/ui/woff/Rubrik/RubrikNew-Bold.woff') format('woff');
-}
-
-/*@font-face {
-	font-family: Calibre;
-	font-style: normal;
-	font-weight: normal;
-	src:
-		url('/ui/woff/Calibre/CalibreTest-Light.woff') format('woff');
-}
-@font-face {
-	font-family: Calibre;
-	font-style: italic;
-	font-weight: normal;
-	src:
-		url('/ui/woff/Calibre/CalibreTest-LightItalic.woff') format('woff');
-}@font-face {
-	font-family: Calibre;
-	font-style: normal;
-	font-weight: bold;
-	src:
-		url('/ui/woff/Calibre/CalibreTest-Bold.woff') format('woff');
 }*/
 
 body {
-	font-family: "Rubrik", "Work Sans", sans-serif;
+	font-family: "Soleil", "Rubrik", sans-serif;
 	font-size: 20px;
 	line-height: 36px;
 	font-feature-settings: "liga";
-	color: #000;/*#090902;*/
+	color: #000;
 	background: #fff;
 
 	/* Stops Mobile Safari from auto-adjusting font-sizes */
@@ -68,6 +47,10 @@ body {
 	-webkit-hyphens: auto;
 	hyphens: auto;
 }
+
+/* FIXME: @media only screen and (min-width: 481px) {
+…
+}*/
 
 em {
 	font-style: italic;

@@ -1,10 +1,6 @@
 ---
 title: "Home"
 author: Josh
-date: 2017-11-25
-
-draft: false
-lastmod: 2017-11-26
 ---
 
 # Josh Berson
@@ -15,7 +11,7 @@ lastmod: 2017-11-26
 
 I give special attention to the question of scale — how the intimate (eating, sleeping, moving, sensing) relates to the global (social acceleration, climate change), how the deep past relates to the imminent future.
 
-In my empirical life I design new methods of observing social behavior in the wild. ~~These tend to involve participatory distributed sensing.~~
+In my empirical life I design new methods of observing social behavior in the wild.
 
 ## Meat
 
@@ -56,11 +52,11 @@ research initiative Hubbub. New projects are in the works — more to come.
 
 ## Ditch kit
 
-*Ditch Kit* is a meditation on the process of sloughing off material things, of reducing the stock of one’s worldly possessions to something that fits in a knapsack. It is about becoming intimately familiar with the practical significance of volumes and stowage spaces: what one can fit in twenty liters, in thirty, what will fit under an aisle seat as opposed to a window. It is about becoming obsessed with paring down one’s wardrobe, cutting away redundancies and indulgences, formulating a uniform. It is about the odd blend of precarity and privilege that comes with living this way and with how renouncing consumer excess becomes a form of consumer excess in itself as the effort to identify the one object that will take the place of ten takes over one’s life. It is about the substitution of corporeal technologies—of exercise, of thermoregulation—for material ones. Above all it is about stillness, about the longing for a place to unpack and hear silence, or at least something other than the spectrally unstructured hum of transit spaces.
+*Ditch Kit* is a meditation on the process of sloughing off material things, of reducing the stock of one’s worldly possessions to something that fits in a knapsack. It is about becoming intimately familiar with the practical significance of volumes and stowage spaces: what fits in twenty liters, in thirty, what fits under an aisle seat as opposed to a window. It is about becoming obsessed with paring down one’s wardrobe, cutting away redundancies and indulgences, formulating a uniform. It is about the odd blend of precarity and privilege that comes with living this way and with how renouncing consumer excess becomes a form of consumer excess in itself as the effort to identify the one object that will take the place of ten takes over one’s life. It is about the substitution of corporeal technologies — of exercise, of thermoregulation — for material ones. Above all it is about stillness, about the longing for a place to unpack and hear silence, or at least something other than the spectrally unstructured hum of transit spaces.
 
 Over the past ten years, two things have dominated my encounters with the built world. One has been transitory living and my increasingly vexed relationship with objects. The other has been tinnitus and my increasingly vexed relationship with sound. I hear monaurally, in just one ear, so I can neither localize sounds in space nor extract speech and other auditory objects from noisy backgrounds. As tinnitus and related pathologies of hearing have become standing features of my acoustic experience, I have started to see how deeply monaurality has shaped me as a body and as a person. A couple years ago I began making sound recordings with the aim of making sense of how sound participates in our sensorimotor, affective, and political lives, above all our encounters with pain. Lately I have come to see that movement is equally implicated in pain, that the punctuated stasis of transitory life, the periods of bodily confinement and waiting, stand in an antagonistic relationship with stillness in both its acoustic and motoric senses.
 
-*Ditch Kit* represents a successor to *Meat.* It draws together a number of strands in my thinking over the past five years. One of these concerns the deep history of technology and the degree to which different kinds of technologies are archaeologically legible and thus salient for our sense of where we come from, where we are going, and the mode and tempo of cultural evolution. A second concerns the human enmeshment in the world of living things and the nature of our relationships to other large-bodied animals, to trees and other plant life, and to the microbiota that form the greater part, by information content, of the holobionts that we are. A third concerns social acceleration and its concomitants: climate change, economic volatility, and growing interest in bodily techniques for fostering mindfulness and resilience that often serve to paper over rather than address the injustices of social acceleration. Above all, this will be a work that aspires to cast light on the violence of the ascetic impulse, the ways in which renouncing objects and even a fixed living situation in the interest of achieving stillness entails complicity in the accelerationist churn that makes stillness, silence, and material security increasingly inaccessible to most people in the world.
+*Ditch Kit* represents a successor to *Meat.* It draws together a number of strands in my thinking over the past five years. One of these concerns the deep history of technology and the degree to which different kinds of technologies are archaeologically legible and thus salient for our sense of where we come from, where we are going, and the mode and tempo of cultural evolution. A second concerns the human enmeshment in the world of living things and the nature of our relationships to other large-bodied animals, to trees and other plant life, and to the microbiota that form the greater part, by information content, of the holobionts that we are. A third concerns social acceleration and its concomitants: climate change, economic volatility, and growing interest in bodily techniques for fostering mindfulness and resilience that often serve to paper over rather than address the injustices of social acceleration. Above all, *Ditch Kit* aspires to cast light on the violence of the ascetic impulse, the ways in which renouncing objects and even a fixed living situation in the interest of achieving stillness entails complicity in the accelerationist churn that makes stillness, silence, and material security increasingly inaccessible to most people in the world.
 
 ## Selected writing
 
