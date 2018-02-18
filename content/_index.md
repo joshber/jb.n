@@ -3,12 +3,12 @@ title: "Home"
 author: Josh
 ---
 
-# Josh Berson
+<h1 class="fadein">Josh Berson</h1>
 
-I write about about how human beings form relationships with other living things and how our bodies are shaped by where we live and what we do.
+<p class="fadein delay1">I write about about how human beings form relationships with other living things and how our bodies are shaped by where we live and what we do.</p>
 
-I give special attention to scale — how the intimate (eating, sleeping, moving, sensing) relates to the global (social acceleration, climate change), the deep past to the imminent future.
+<p class="fadein delay2">I give special attention to scale — how the intimate (eating, sleeping, moving, sensing) relates to the global (social acceleration, climate change), the deep past to the imminent future.</p>
 
-[Write me](mailto:josh@joshberson.net).
+<p class="fadein delay3"><a href=mailto:josh@joshberson.net">Write me</a>.</p>
 
-**New.** From August 2018 I will be a USC Berggruen Fellow at the Berggruen Institute in Los Angeles.
+<p class="fadein delay4"><strong>New.</strong> From August 2018 I will be a USC Berggruen Fellow at the Berggruen Institute in Los Angeles.</p>
