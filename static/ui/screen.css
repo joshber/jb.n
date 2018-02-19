@@ -171,7 +171,7 @@ ul.inline li {
 @keyframes fadein {
  	0% {
  		opacity: 0;
- 		transform: translate( 0, 2em );
+ 		transform: translate( 2em, 0 );
  	}
  	100% {
  		opacity: 1;
@@ -181,7 +181,7 @@ ul.inline li {
 @-moz-keyframes fadein {
  	0% {
  		opacity: 0;
- 		transform: translate( 0, 2em );
+ 		transform: translate( 2em, 0 );
  	}
  	100% {
  		opacity: 1;
@@ -191,7 +191,7 @@ ul.inline li {
 @-webkit-keyframes fadein {
  	0% {
  		opacity: 0;
- 		transform: translate( 0, 2em );
+ 		transform: translate( 2em, 0 );
  	}
  	100% {
  		opacity: 1;
