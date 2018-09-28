@@ -1,10 +1,7 @@
 ---
 title: "Autonomy"
 author: Josh
-date: 2017-11-25
-
-draft: false
-lastmod: 2018-07-10
+draft: true
 ---
 
 # Autonomy
