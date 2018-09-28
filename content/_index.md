@@ -3,12 +3,12 @@ title: "Home"
 author: Josh
 ---
 
-<h1 class="fadein">Josh Berson</h1>
+# Josh Berson
 
-<p class="fadein delay1">I write about how living things become enmeshed in patterns of sensorikinetic coupling from the intimate (eating, sleeping, breathing, listening) to the planetary (social acceleration, climate change).</p>
+I write about how living things become enmeshed in patterns of sensorikinetic coupling from the intimate (eating, sleeping, breathing, listening) to the planetary (social acceleration, climate change).
 
-<p class="fadein delay2">And I make <a href="https://github.com/joshber/sndspc">procedural sound</a>.</p>
+And I make [procedural sound](https://github.com/joshber/sndspc).
 
-<p class="fadein delay3"><a href="mailto:josh@joshberson.net">Write me</a>.</p>
+[Write me](mailto:josh@joshberson.net).
 
-<p class="fadein delay4"><strong>New.</strong> From August 2018 I will be a USC Berggruen Fellow at the Berggruen Institute in Los Angeles.</p>
+In 2018–19 I am a USC Berggruen Fellow at the Berggruen Institute in Los Angeles.
