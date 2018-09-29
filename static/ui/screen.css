@@ -14,14 +14,20 @@
 	font-weight: bold;
 	src: url("/ui/type/KontrapunktMiki-Bold.otf") format("opentype");
 }
-@font-face {
+/*@font-face {
 	font-family: "Miki";
 	font-weight: 900;
 	src: url("/ui/type/KontrapunktMiki-ExtraBold.otf") format("opentype");
+}*/
+
+@font-face {
+	font-family: "National 2";
+	font-weight: normal;
+	src: url("/ui/type/National 2 Test/National2Test-Regular.otf") format("opentype");
 }
 
 body {
-	font-family: "Miki", "Faune", sans-serif;
+	font-family: "National 2", "Miki", sans-serif;
 
 	font-size: 19px; /* Mobile-first */
 	line-height: 1.5em;
