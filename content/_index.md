@@ -5,10 +5,11 @@ author: Josh
 
 # Josh Berson
 
-FIXME IMPROVE I write about how living things become enmeshed in patterns of sensorikinetic coupling from the intimate (eating, sleeping, breathing, listening) to the planetary (social acceleration, climate change).
+I am a novelist and philosopher. I write about how intimate behavior (eating, sleeping, photosynthesis, chemosignaling) gives rise to planetary phenomena (social acceleration, climate change).
 
-And I make [procedural sound](https://github.com/joshber/sndspc).
-
-[Write me](mailto:josh@joshberson.net).
+Occasionally I make [procedural sound](https://www.dropbox.com/s/4raizlm9hrctda7/Berson%20Manifold.flac?dl=0)
+([source](https://github.com/joshber/sndspc)).
 
 In 2018–19 I am a USC Berggruen Fellow at the Berggruen Institute in Los Angeles.
+
+[Write me](mailto:josh@joshberson.net).
