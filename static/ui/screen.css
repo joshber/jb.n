@@ -15,8 +15,14 @@
 	src: url("/ui/type/KontrapunktMiki-Bold.otf") format("opentype");
 }
 
+@font-face {
+	font-family: "Young";
+	font-weight: normal;
+	src: url("/ui/type/YoungSerif-Regular.otf") format("opentype");
+}
+
 body {
-	font-family: "Work Sans", "Miki", sans-serif;
+	font-family: "-Young", "Miki", sans-serif;
 
 	font-size: 19px; /* Mobile-first */
 	line-height: 1.5em;

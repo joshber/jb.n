@@ -5,7 +5,7 @@ author: Josh
 
 # Josh Berson
 
-I am a novelist and philosopher. I write about how intimate behavior (eating, sleeping, photosynthesis, chemosignaling) gives rise to planetary phenomena (social acceleration, climate change).
+I write about how intimate behavior (eating, sleeping, photosynthesis, chemosignaling) gives rise to planetary phenomena (social acceleration, climate change).
 
 Occasionally I make [procedural sound](https://www.dropbox.com/s/4raizlm9hrctda7/Berson%20Manifold.flac?dl=0)
 ([source](https://github.com/joshber/sndspc)).
