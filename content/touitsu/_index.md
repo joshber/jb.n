@@ -1,12 +1,17 @@
 ---
-title: "Touitsu"
+title: "Strategy"
 author: Josh
+draft: true
 ---
 
-# Touitsu
+# Contemplative Strategy
 
-Markets are ever more erratic. The liberal order is disintegrating. No one knows what comes next. Still, you need to make a living.
+Markets are ever more volatile. The liberal order is disintegrating. Ice-free poles seem inevitable. No one knows what comes next. Nonetheless, you need to make a living.
 
-Touitsu provides practical guidance in techniques of one-pointedness to support a focused, ethical way of conducting business.
+I offer guidance in techniques of quiet attunement to support a focused, ethical way of conducting business, one that fosters an openness to all that we can neither anticipate nor control.
 
-[contact@touitsu.com](mailto:contact@touitsu.com)
+No branded process, just honest conversation backed up by my long experience learning how to listen and ask useful questions.
+
+To schedule a conversation, [write me](mailto:josh@joshberson.net).
+
+[Home](/)
