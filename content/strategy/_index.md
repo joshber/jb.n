@@ -7,9 +7,7 @@ author: Josh
 
 Markets are ever more volatile. The liberal order is disintegrating. Ice-free poles seem inevitable. Nonetheless, you need to make a living.
 
-I help firms cultivate a focused, ethical, open-to-the-unbidden path forward.
-
-<!--I help firms cultivate a contemplative strategy: focused, ethical, and open to all that we can neither anticipate nor control.-->
+I work with organizations and individuals to cultivate a focused, ethical, open-to-the-unbidden path forward.
 
 No branded process, just honest conversation backed up by my long experience learning how to listen and observe.
 
