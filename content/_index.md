@@ -12,4 +12,6 @@ Occasionally I make [procedural sound](https://www.dropbox.com/s/4raizlm9hrctda7
 
 In 2018–19 I am a USC Berggruen Fellow at the Berggruen Institute in Los Angeles.
 
+<!-- **New.** It is my pleasure to announce that my next book, ›The Meat Question‹, will appear with MIT Press in 2019. -->
+
 [Write me](mailto:josh@joshberson.net).
