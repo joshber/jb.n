@@ -1,24 +1,17 @@
 @import url("/ui/normalize.css");
 
-@font-face {
-	font-family: "Angus";
-	font-style: normal;
-	font-weight: normal;
-	src: url("/ui/type/Angus/TRY_Angus-Regular.ttf") format("truetype");
-}
-
 /*
  * Typography
  */
 
 body {
-	font-family: "Angus", "Work Sans", sans-serif;
+	font-family: "Work Sans", sans-serif;
 
-	font-size: 19px; /* Mobile-first */
+	font-size: 15px; /* Mobile-first */
 	line-height: 1.5em;
 
 	font-feature-settings: "liga" 1;
-	font-feature-settings: "onum" 1;
+	/*font-feature-settings: "onum" 1;*/
 
 	color: #000;
 	background: #fff;
@@ -35,11 +28,11 @@ body {
 }
 
 /* Large displays */
-@media only screen and (min-width: 481px) {
+/* @media only screen and (min-width: 481px) {
 	body {
 		font-size: 28px;
 	}
-}
+}*/
 
 del {
 	display: none;
