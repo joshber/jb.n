@@ -1,11 +1,18 @@
 @import url("/ui/normalize.css");
 
+@font-face {
+	font-family: "Angus";
+	font-style: normal;
+	font-weight: normal;
+	src: url("/ui/type/Angus/TRY_Angus-Regular.ttf") format("truetype");
+}
+
 /*
  * Typography
  */
 
 body {
-	font-family: "Work Sans", sans-serif;
+	font-family: "Angus", "Work Sans", sans-serif;
 
 	font-size: 19px; /* Mobile-first */
 	line-height: 1.5em;
