@@ -4,14 +4,20 @@
  * Typography
  */
 
-body {
-	font-family: "Work Sans", sans-serif;
+/*@font-face {
+	font-family: "Brill";
+	font-weight: normal;
+	src: url("/ui/type/Brill.ttf") format("truetype");
+}*/
 
-	font-size: /*19px*/ 15px; /* Mobile-first */
+body {
+	font-family: "Arbutus Slab", sans-serif;
+
+	font-size: /*19px*/ 18px; /* Mobile-first */
 	line-height: 1.5em;
 
 	font-feature-settings: "liga" 1;
-	/*font-feature-settings: "onum" 1;*/
+	font-feature-settings: "onum" 1;
 
 	color: #000;
 	background: #fff;
@@ -89,7 +95,7 @@ body {
 }
 
 #content {
-  max-width: /*100%*/ 480px;
+  max-width: /*100%*/ 576px;
   margin: /*4em*/ 0 0 auto;
 }
 article {
@@ -100,7 +106,7 @@ article * {
 }
 
 p {
-  text-align: left;
+  text-align: justify /*left*/;
   margin: .8em 0 0 0;
 }
 
