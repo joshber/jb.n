@@ -9,6 +9,6 @@ Essayist, novelist, bothy enthusiast. Author of Computable Bodies (2015), The Me
 
 Occasionally I do things with [procedural sound](https://github.com/joshber/sndspc).
 
-In 2018–19 I am a USC Berggruen Fellow at the Berggruen Institute in Los Angeles. Prior to that I was for four+ years visiting researcher at the Max Planck Institute for Human Cognitive and Brain Sciences.
+In 2018–19 I am a USC Berggruen Fellow at the Berggruen Institute in Los Angeles. From 2013 through 2017 I was visiting researcher at the Max Planck Institute for Human Cognitive and Brain Sciences.
 
 [Write me](mailto:josh@joshberson.net).
