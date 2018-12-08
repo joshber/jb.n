@@ -5,16 +5,45 @@
  */
 
 @font-face {
-	font-family: "Gza Semibold";
-	src: url("/ui/type/GzaTrial-SemiBold.otf") format("opentype");
+	font-family: "Fern Micro";
+	font-style: normal;
+	font-weight: normal;
+	src: url("/ui/type/FernMicro-Regular-Testing.woff2") format("woff2");
 }
 @font-face {
-	font-family: "Gza";
-	src: url("/ui/type/GzaTrial-Regular.otf") format("opentype");
+	font-family: "Fern Micro";
+	font-style: italic;
+	font-weight: normal;
+	src: url("/ui/type/FernMicro-Italic-Testing.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Fern Micro";
+	font-style: normal;
+	font-weight: bold;
+	src: url("/ui/type/FernMicro-Bold-Testing.woff2") format("woff2");
+}
+
+@font-face {
+	font-family: "Output Sans";
+	font-style: normal;
+	font-weight: normal;
+	src: url("/ui/type/OutputSans-Medium.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Output Sans";
+	font-style: italic;
+	font-weight: normal;
+	src: url("/ui/type/OutputSans-MediumItalic.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Output Sans";
+	font-style: normal;
+	font-weight: bold;
+	src: url("/ui/type/OutputSans-Bold.woff2") format("woff2");
 }
 
 body {
-	font-family: "Gza Semibold", "Gza", "Arbutus Slab", sans-serif;
+	font-family: "Output Sans", "Fern Micro", "Work Sans", sans-serif;
 
 	font-size: /*19px*/ 18px; /* Mobile-first */
 	line-height: 1.5em;
