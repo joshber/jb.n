@@ -50,6 +50,7 @@ body {
 
 	font-feature-settings: "liga" 1;
 	font-feature-settings: "onum" 1;
+	font-feature-settings: "ss02" 0;
 
 	color: #000;
 	background: #fff;
@@ -66,7 +67,7 @@ body {
 }
 
 /* Large displays */
-/* @media only screen and (min-width: 481px) {
+@media only screen and (min-width: 481px) {
 	body {
 		font-size: 28px;
 	}
@@ -109,13 +110,9 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 }
 
 h1 {
-	font-size: 133%;
+	font-size: 120% /*133%*/;
 	line-height: 1.5em;
-	font-weight: normal;
-}
-
-.black {
-	font-weight: 900;
+	font-weight: /*normal*/bold;
 }
 
 /*
@@ -128,7 +125,7 @@ body {
 }
 
 #content {
-  max-width: /*100%*/ 576px;
+  max-width: 100% /*576px*/;
   margin: /*4em*/ 0 0 auto;
 }
 article {
