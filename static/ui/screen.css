@@ -4,44 +4,6 @@
  * Typography
  */
 
-/*@font-face {
-	font-family: "Fern Micro";
-	font-style: normal;
-	font-weight: normal;
-	src: url("/ui/type/FernMicro-Regular-Testing.woff2") format("woff2");
-}
-@font-face {
-	font-family: "Fern Micro";
-	font-style: italic;
-	font-weight: normal;
-	src: url("/ui/type/FernMicro-Italic-Testing.woff2") format("woff2");
-}
-@font-face {
-	font-family: "Fern Micro";
-	font-style: normal;
-	font-weight: bold;
-	src: url("/ui/type/FernMicro-Bold-Testing.woff2") format("woff2");
-}*/
-
-/*@font-face {
-	font-family: "Louize";
-	font-style: normal;
-	font-weight: normal;
-	src: url("/ui/type/LouizeTrial-Regular.otf") format("opentype");
-}
-@font-face {
-	font-family: "Louize";
-	font-style: italic;
-	font-weight: normal;
-	src: url("/ui/type/LouizeTrial-Italic.otf") format("opentype");
-}
-@font-face {
-	font-family: "Louize";
-	font-style: normal;
-	font-weight: bold;
-	src: url("/ui/type/LouizeTrial-Bold.otf") format("opentype");
-}*/
-
 @font-face {
 	font-family: "Output";
 	font-style: normal;
