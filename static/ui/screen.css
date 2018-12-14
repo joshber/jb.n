@@ -4,7 +4,7 @@
  * Typography
  */
 
-@font-face {
+/*@font-face {
 	font-family: "Fern Micro";
 	font-style: normal;
 	font-weight: normal;
@@ -21,29 +21,48 @@
 	font-style: normal;
 	font-weight: bold;
 	src: url("/ui/type/FernMicro-Bold-Testing.woff2") format("woff2");
+}*/
+
+/*@font-face {
+	font-family: "Louize";
+	font-style: normal;
+	font-weight: normal;
+	src: url("/ui/type/LouizeTrial-Regular.otf") format("opentype");
 }
+@font-face {
+	font-family: "Louize";
+	font-style: italic;
+	font-weight: normal;
+	src: url("/ui/type/LouizeTrial-Italic.otf") format("opentype");
+}
+@font-face {
+	font-family: "Louize";
+	font-style: normal;
+	font-weight: bold;
+	src: url("/ui/type/LouizeTrial-Bold.otf") format("opentype");
+}*/
 
 @font-face {
-	font-family: "Output Sans";
+	font-family: "Output";
 	font-style: normal;
 	font-weight: normal;
 	src: url("/ui/type/OutputSans-Regular.woff2") format("woff2");
 }
 @font-face {
-	font-family: "Output Sans";
+	font-family: "Output";
 	font-style: italic;
 	font-weight: normal;
 	src: url("/ui/type/OutputSans-Italic.woff2") format("woff2");
 }
 @font-face {
-	font-family: "Output Sans";
+	font-family: "Output";
 	font-style: normal;
 	font-weight: bold;
 	src: url("/ui/type/OutputSans-Bold.woff2") format("woff2");
 }
 
 body {
-	font-family: "Output Sans", "Fern Micro", "Work Sans", sans-serif;
+	font-family: "Output", "Work Sans", "Avenir Next", sans-serif;
 
 	font-size: /*19px*/ 18px; /* Mobile-first */
 	line-height: 1.5em;
